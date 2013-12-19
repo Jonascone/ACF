@@ -69,3 +69,6 @@ r416
 
 *r458
 --Changed engine volume behavior; volume now ramps up with rpm in addition to throttle.
+
+*r459
+--Added Flechette ammo, which is essentially a shotgun round for cannons.  It has decent penetration but deals only minor structural damage, and is intended for use against light mobile armor, such as aircraft or scout tanks.
